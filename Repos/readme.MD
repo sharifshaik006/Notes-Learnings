@@ -14,7 +14,7 @@ which is git commit -m "commit message"
 
 push the file to the github/ central repo
 
-git push -u origin
+* git push -u origin
 
 
 # Shell Script
